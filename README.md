@@ -12,8 +12,6 @@
 <a href="https://www.w3schools.com/python" target="_blank"> <img src="assets/python.svg" alt="python" height="50" style="margin: 5px"/> </a> 
 <a href="https://www.w3schools.com/go" target="_blank"> <img src="assets/go.svg" alt="go" height="50" style="margin: 5px"/> </a> 
 <a href="https://linuxwiki.de/Bash" target="_blank"> <img src="assets/bash.svg" alt="bash" height="50" style="margin: 5px"/> </a> 
-<a href="https://www.erlang.org/" target="_blank"> <img src="assets/erlang.svg" alt="erlang" height="50" style="margin: 5px"/> </a> 
-<a href="https://www.w3schools.com/php" target="_blank"> <img src="assets/php.svg" alt="php" height="50" style="margin: 5px"/> </a> 
 
 <a href="https://www.w3schools.com/angular/" target="_blank"> <img src="assets/angular.svg" alt="angular" height="50" style="margin: 5px"/> </a> 
 <a href="https://www.w3schools.com/react/" target="_blank"> <img src="assets/react.svg" alt="react" height="50" style="margin: 5px"/> </a> 
@@ -76,7 +74,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wieerwill&show_icons=true&locale=en&layout=compact&langs_count=10)](https://github.com/wieerwill)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wieerwill&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,css,swift)](https://github.com/wieerwill)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wieerwill&show_icons=true&locale=en&hide=prs,issues)](https://github.com/wieerwill)
 
 # My Projects at TU Ilmenau
