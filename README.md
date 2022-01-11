@@ -74,9 +74,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wieerwill&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,css,swift)](https://github.com/wieerwill)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wieerwill&show_icons=true&locale=en&layout=compact&langs_count=8&hide=tex,html,css,swift)](https://github.com/wieerwill)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wieerwill&show_icons=true&locale=en&hide=prs,issues)](https://github.com/wieerwill)
 
+(Most used languages excludes some non-programming "languages" like TeX, HTML, CSS,...)
 # My Projects at TU Ilmenau
 [![Informatik](https://github-readme-stats.vercel.app/api/pin/?username=wieerwill&repo=informatik)](https://github.com/wieerwill/informatik) 
 [![Informatik](https://github-readme-stats.vercel.app/api/pin/?username=wieerwill&repo=Objektposenschaetzung)](https://github.com/wieerwill/Objektposenschaetzung)
