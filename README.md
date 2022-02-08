@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm WieErWill</h1>
-<h3 align="center">security and computer science dev from Germany</h3>
+<div align="center" style="text-align: center; margin: 1em; padding: 1em;" >
+
+# Hi, I'm WieErWill
+
+## security and computer science dev from Germany
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wieerwill&theme=darkhub&row=1&title=MultiLanguage,Commits,Repositories,Stars,Followers)](https://github.com/wieerwill)
+
 
 # Languages & Frameworks
 <a href="https://www.tutorialspoint.com/cprogramming" target="_blank"> <img src="assets/c.svg" alt="c" height="50" style="margin: 5px"/> </a> 
@@ -73,7 +77,7 @@
 <a href="https://www.wireshark.org/" target="_blank"> <img src="assets/wireshark.svg" alt="wireshark" height="50" style="margin: 5px"/> </a> 
 
 
-
+# Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wieerwill&show_icons=true&locale=en&layout=compact&langs_count=8&hide=tex,html,css,swift)](https://github.com/wieerwill)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wieerwill&show_icons=true&locale=en&hide=prs,issues)](https://github.com/wieerwill)
 
@@ -92,3 +96,6 @@ And many more projects on my GitHub Page
 
 # Visit my Page to know more
 [![Wieerwill](assets/wieerwill.png)](https://wieerwill.github.io)
+
+
+</div>
