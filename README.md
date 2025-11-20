@@ -1,13 +1,13 @@
 <div align="center">
 
 # 👋 Hi there, I'm WieErWill
-#### tldr; Social Robotics and Machine Learning Developer from Germany
+#### tldr; Social Robotics and Software Architect from Germany
 
-🧙‍♂️ Get with me into the realms of code and capturing the magic of pixels. I juggle the logical strings of `C++`, `Rust`, and `TypeScript`, crafting algorithms as a **Social Robotics and Machine Learning** Dev. But when the screens go dark, my camera lights up, capturing the whispers of nature and echoes of subcultures.
+🧙‍♂️ From years of `C/C++` i switched quite everything to `Rust` as i code embedded and desktop applications. Some Projects are also done in `TypeScript`, especially for frontend applications. My core lies in embedded software and getting your architecture up and running. Specially interested and invested in Social Robotics (look at RoboCup) and Software Architecture.
 
-📸 From the serenity of wildlife to the bold expressions of goth, punk and cosplay, my **Photography** is an extension of my creative soul. My style? Think of it as a well-commented code: clean, efficient, and strikingly impactful. It's not just about taking photos or writing code; it's about narrating stories that the world overlooks.
+📸 From big screen to small screen, i am a hobby photographer too. You won't see any of it here on GitHub but follow my (social) links for more about that. Mostly wildlife and alternative styles.
 
-💻 At the heart of it all is [wieerwill.de](https://wieerwill.de), my digital canvas where tech meets art. Here, each pixel and line of code is a testament to my belief: creativity isn't just thinking outside the box; it's about reinventing it.
+💻 At the heart of it all is [wieerwill.dev](https://wieerwill.dev), my personal digital canvas where tech meets art.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wieerwill&theme=darkhub&row=1&title=MultiLanguage,Repositories,Stars)](https://github.com/wieerwill)
 
